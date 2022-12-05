@@ -1,0 +1,38 @@
+﻿team,conference,division,rating,inaugural_season
+Buffalo Bills,afc,afc_east,1500,1960
+Miami Dolphins,afc,afc_east,1300,1966
+New England Patriots,afc,afc_east,1500,1960
+New York Jets,afc,afc_east,1500,1960
+Cincinnati Bengals,afc,afc_north,1300,1968
+Cleveland Browns,afc,afc_north,1300,1950
+Pittsburgh Steelers,afc,afc_north,1500,1933
+Baltimore Ravens,afc,afc_north,1300,1996
+Houston Texans,afc,afc_south,1300,2002
+Indianapolis Colts,afc,afc_south,1300,1944
+Jacksonville Jaguars,afc,afc_south,1300,1995
+Tennessee Titans,afc,afc_south,1500,1960
+Denver Broncos,afc,afc_west,1500,1960
+Kansas City Chiefs,afc,afc_west,1500,1960
+Los Angeles Chargers,afc,afc_west,1500,1960
+Las Vegas Raiders,afc,afc_west,1500,1960
+Dallas Cowboys,nfc,nfc_east,1300,1960
+New York Giants,nfc,nfc_east,1500,1933
+Philadelphia Eagles,nfc,nfc_east,1500,1933
+Washington Redskins,nfc,nfc_east,1500,1933
+Chicago Bears,nfc,nfc_north,1500,1933
+Detroit Lions,nfc,nfc_north,1500,1933
+Green Bay Packers,nfc,nfc_north,1500,1933
+Minnesota Vikings,nfc,nfc_north,1300,1961
+Atlanta Falcons,nfc,nfc_south,1300,1966
+Carolina Panthers,nfc,nfc_south,1300,1995
+New Orleans Saints,nfc,nfc_south,1300,1967
+Tampa Bay Buccaneers,nfc,nfc_south,1300,1976
+Arizona Cardinals,nfc,nfc_west,1500,1933
+Los Angeles Rams,nfc,nfc_west,1300,1937
+San Francisco 49ers,nfc,nfc_west,1400,1950
+Seattle Seahawks,nfc,nfc_west,1300,1976
+Brooklyn Dodgers,NA,NA,1500,1933
+Card Pitt,NA,NA,1300,1944
+Cincinnati Reds,NA,NA,1500,1933
+Baltimore Colts,NA,NA,1300,1950
+Phil Pitt Steagles,NA,NA,1300,1943
